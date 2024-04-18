@@ -2,8 +2,7 @@
 
 I'm currently a 3nd year student at Hanoi University of Science and Technology. I'm currently learning Data Science and Artificial Intelligence (DSAI). 
 
-![snake animation](https://github.com/<seu dtruong46me>/<seu dtruong46me>/blob/output/github-contribution-grid-snake2.svg)
-
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 <!--
 **dtruong46me/dtruong46me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
