@@ -4,8 +4,6 @@ I'm currently a 3nd year student at Hanoi University of Science and Technology. 
 
 ![snake gif](https://github.com/dtruong46me/dtruong46me/blob/output/github-contribution-grid-snake-dark.svg)
 
-![snake gif](https://github.com/dtruong46me/dtruong46me/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **dtruong46me/dtruong46me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
