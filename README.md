@@ -1,6 +1,10 @@
-### Hi there 👋
+## Hi, I'm Dinh Truong 👋
 
-I'm currently a 3nd year student at Hanoi University of Science and Technology. I'm currently learning Data Science and Artificial Intelligence (DSAI). 
+I'm currently a 3nd year student at **Hanoi University of Science and Technology**. I'm currently learning **Data Science and Artificial Intelligence**. I have experience in building AI/ML/DL/DS projects. I have participated in many projects on Computer Vision, Natural Language Processing,... and have an understanding of ML/DL models, frameworks *(like TensorFlow, PyTorch, Huggingface,...)*.
+I am learning about Generative AI, Big Data, MLOps and I want to become a Data/AI Engineer in the future.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtruong46me&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dtruong46me&theme=radical&hide_border=false)<br/>
 
 ![snake gif](https://github.com/dtruong46me/dtruong46me/blob/output/github-contribution-grid-snake-dark.svg)
 
@@ -18,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
