@@ -15,6 +15,7 @@ I am learning about Generative AI, Big Data, MLOps and I want to become a Data/A
   <img width=100% src="https://github.com/dtruong46me/dtruong46me/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
+___
 <!--
 **dtruong46me/dtruong46me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
