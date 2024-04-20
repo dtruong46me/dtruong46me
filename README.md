@@ -8,7 +8,7 @@ I am learning about Generative AI, Big Data, MLOps and I want to become a Data/A
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=dtruong46me&show_icons=true&theme=radical&count_private=true&border_radius=10" alt="streak stats"/>
 </div> -->
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dtruong46me&theme=radical&hide_border=false&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=dtruong46me&theme=radical&hide_border=false&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 <div align=center>
