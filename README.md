@@ -16,6 +16,16 @@ I am learning about Generative AI, Big Data, MLOps and I want to become a Data/A
 </div>
 
 ___
+
+```
+    ____  _       __       ______                                 ____  __              
+   / __ \(_)___  / /_     /_  __/______  ______  ____  ____ _    / __ \/ /_  ____ _____ 
+  / / / / / __ \/ __ \     / / / ___/ / / / __ \/ __ \/ __ `/   / /_/ / __ \/ __ `/ __ \
+ / /_/ / / / / / / / /    / / / /  / /_/ / /_/ / / / / /_/ /   / ____/ / / / /_/ / / / /
+/_____/_/_/ /_/_/ /_/    /_/ /_/   \__,_/\____/_/ /_/\__, /   /_/   /_/ /_/\__,_/_/ /_/ 
+                                                    /____/   
+
+```
 <!--
 **dtruong46me/dtruong46me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
