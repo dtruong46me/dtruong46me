@@ -11,8 +11,8 @@
 ```
 ## Hi, I'm Dinh Truong 👋
 
-I'm currently a 3nd year student at **Hanoi University of Science and Technology**. I'm currently learning **Data Science and Artificial Intelligence**. I have experience in building AI/ML/DL/DS projects. I have paticipated in many projects on Computer Vision, Natural Language Processing projects and I have knowledge on ML/DL models, frameworks *(like TensorFlow, PyTorch, Huggingface,...)*.
-I am learning about Generative AI, Big Data, MLOps and I want to become a Data/AI Engineer in the future.
+I'm currently a student at **Hanoi University of Science and Technology**. I'm currently learning **Data Science and Artificial Intelligence**. I have experience in building AI/ML/DL/DS projects. I have paticipated in many projects on Computer Vision, Natural Language Processing projects and I have knowledge on ML/DL models, frameworks *(like TensorFlow, PyTorch, Huggingface,...)*.
+I am learning about Generative AI, Big Data, MLOps and I want to become an AI Engineer in the future.
 
 <!--
 <div align=center>
