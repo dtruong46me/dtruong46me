@@ -11,7 +11,7 @@
 ```
 ## Hi, I'm Dinh Truong 👋
 
-I'm a DSAI student at **Hanoi University of Science and Technology** with strong expertise in Machine Learning (ML), Deep Learning (DL), and Large Language Models (LLM). I've gained experience through various projects, particularly in Computer Vision and Natural Language Processing, and am continuously advancing my knowledge in Generative AI, Big Data, and MLOps. My goal is to become an expert in AI and Data Science.
+I'm a DSAI student at **Hanoi University of Science and Technology** with strong expertise in *Machine Learning*, *Deep Learning*, *Large Language Models*. I've gained experience through many complex projects, particularly in *CV*, *NLP*, *LLM*,... I am continuously advance my knowledge in Generative AI, Big Data, and MLOps. My goal is to become an expert in AI and Data Science.
 
 ### Frameworks:
 
