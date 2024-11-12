@@ -20,6 +20,8 @@ I'm a DSAI student at **Hanoi University of Science and Technology** with strong
 - **Deep Learning / LLM**: Huggingface, PyTorch, TensorFlow, Keras, FastAPI
 - **MLOps**: MLflow, DVC, Grafana, Kubeflow, W&B
 - **Big Data**: Airflow, Spark, Hadoop, Apache Kafka, Apache Flink
+- ...
+
 <!--
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=dtruong46me&show_icons=true&theme=radical&count_private=true&border_radius=10" alt="streak stats"/>
