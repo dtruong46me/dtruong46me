@@ -11,9 +11,15 @@
 ```
 ## Hi, I'm Dinh Truong 👋
 
-I'm currently a student at **Hanoi University of Science and Technology**. I'm currently learning **Data Science and Artificial Intelligence**. I have experience in building AI/ML/DL/DS projects. I have paticipated in many projects on Computer Vision, Natural Language Processing projects and I have knowledge on ML/DL models, frameworks *(like TensorFlow, PyTorch, Huggingface,...)*.
-I am learning about Generative AI, Big Data, MLOps and I want to become an AI Engineer in the future.
+I'm a DSAI student at **Hanoi University of Science and Technology** with strong expertise in Machine Learning (ML), Deep Learning (DL), and Large Language Models (LLM). I've gained experience through various projects, particularly in Computer Vision and Natural Language Processing, and am continuously advancing my knowledge in Generative AI, Big Data, and MLOps. My goal is to become an expert in AI and Data Science.
 
+### Frameworks:
+
+- **Machine Learning**: scikit-learn
+- **Data Science**: pandas, numpy
+- **Deep Learning / LLM**: Huggingface, PyTorch, TensorFlow, Keras, FastAPI
+- **MLOps**: MLflow, DVC, Grafana, Kubeflow, W&B
+- **Big Data**: Airflow, Spark, Hadoop, Apache Kafka, Apache Flink
 <!--
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=dtruong46me&show_icons=true&theme=radical&count_private=true&border_radius=10" alt="streak stats"/>
