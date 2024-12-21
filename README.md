@@ -18,8 +18,9 @@ I'm a DSAI student at **Hanoi University of Science and Technology** with strong
 - **Machine Learning**: scikit-learn
 - **Data Science**: pandas, numpy
 - **Deep Learning / LLM**: Huggingface, PyTorch, TensorFlow, Keras, FastAPI
-- **MLOps**: MLflow, DVC, Grafana, Kubeflow, W&B
-- **Big Data**: Airflow, Spark, Hadoop, Apache Kafka, Apache Flink
+- **MLOps**: MLflow, DVC, Grafana, W&B, CI/CD
+- **Data Engineering**: Airflow, Spark, Hadoop, Apache Kafka, Apache Flink
+- **DevOps**: ...
 - ...
 
 <!--
