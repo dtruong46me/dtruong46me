@@ -11,17 +11,98 @@
 ```
 ## Hi, I'm Dinh Truong 👋
 
-I'm a DSAI student at **Hanoi University of Science and Technology** with strong expertise in *Machine Learning*, *Deep Learning*, *Large Language Models*. I've gained experience through many complex projects, particularly in *CV*, *NLP*, *LLM*,... I am continuously advance my knowledge in Generative AI, Big Data, and MLOps. My goal is to become an expert in AI and Data Science.
+I’m a DSAI student at Hanoi University of Science and Technology (HUST) with a strong focus on AI Engineering, particularly Large Language Models (LLMs), Agentic Systems, and MLOps.
+I have hands-on experience building end-to-end AI systems, from model training and optimization to deployment at scale on cloud-native infrastructure.
 
-### Frameworks:
+My long-term goal is to become an AI Engineer who can design scalable, reliable, and production-ready AI systems, combining solid foundations in Machine Learning, Distributed Systems, and System Design.
 
-- **Machine Learning**: scikit-learn
-- **Data Science**: pandas, numpy
-- **Deep Learning / LLM**: Huggingface, PyTorch, TensorFlow, Keras, FastAPI
-- **MLOps**: MLflow, DVC, Grafana, W&B, CI/CD
-- **Data Engineering**: Airflow, Spark, Hadoop, Apache Kafka, Apache Flink
-- **DevOps**: ...
-- ...
+### Core Expertise
+#### Large Language Models & Agent Systems
+- LLM Frameworks: Hugging Face, PyTorch, TensorFlow
+- Agentic AI:
+  - LangChain, LangGraph
+  - MCP (Model Context Protocol)
+  - A2A (Agent-to-Agent)
+- RAG Systems:
+  - Vector databases: Weaviate, Qdrant, 
+  - Advanced RAG techniques
+
+OK, mình viết lại **ngắn gọn – dạng bullet points – đúng kiểu GitHub/CV**, không icon, tập trung đúng các mảng bạn yêu cầu.
+
+---
+
+## Skills
+
+### Large Language Models & Agent Systems
+
+* LLM frameworks: Hugging Face, PyTorch, TensorFlow
+* Agent systems: LangChain, LangGraph
+* Agent protocols: MCP, A2A (Agent-to-Agent)
+* Retrieval-Augmented Generation (RAG): FAISS, Weaviate
+* Prompt engineering: instruction tuning, ReAct, tool/function calling
+
+---
+
+### LLM Training & Optimization
+
+* Fine-tuning: full fine-tuning, LoRA / PEFT
+* Model optimization: distillation, pruning, quantization
+* Alignment & learning: RLHF, preference-based learning
+* Model evaluation and benchmarking
+
+---
+
+### MLOps & Deployment
+
+* Experiment tracking & data versioning: MLflow, DVC, W&B
+* CI/CD: GitHub Actions, GitLab CI/CD, Jenkins, ArgoCD
+* Containerization: Docker, image optimization, versioning
+* Orchestration: Kubernetes (training jobs, inference services)
+* Monitoring: Grafana, Prometheus
+
+---
+
+### Cloud & Infrastructure
+
+* AWS: S3, EC2, EKS
+* GCP: GCS, GKE
+* Cloud-native ML pipelines and scalable model serving
+
+---
+
+### Machine Learning & Data
+
+* Machine learning: scikit-learn
+* Data science: pandas, NumPy
+* Deep learning: PyTorch, TensorFlow, Keras
+* Backend for ML systems: FastAPI
+
+---
+
+### Data Engineering
+
+* Apache Spark, Hadoop
+* Airflow
+* Apache Kafka, Apache Flink
+
+---
+
+### Learning & Career Direction
+
+* Speech processing: ASR, TTS, speech-to-text systems
+* Career path: AI Engineer
+* Foundations: Data Structures & Algorithms, System Design, Distributed Systems
+
+---
+
+Nếu bạn muốn mình:
+
+* Rút gọn nữa cho **1 màn hình GitHub**
+* Tách thành **Core / Advanced / Familiar**
+* Viết bản **CV-friendly (ATS-friendly)**
+
+👉 nói mình biết mục đích dùng (GitHub / CV / LinkedIn) là mình chỉnh tiếp.
+
 
 <!--
 <div align=center>
