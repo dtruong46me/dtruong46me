@@ -16,92 +16,44 @@ I have hands-on experience building end-to-end AI systems, from model training a
 
 My long-term goal is to become an AI Engineer who can design scalable, reliable, and production-ready AI systems, combining solid foundations in Machine Learning, Distributed Systems, and System Design.
 
-### Core Expertise
-#### Large Language Models & Agent Systems
-- LLM Frameworks: Hugging Face, PyTorch, TensorFlow
-- Agentic AI:
-  - LangChain, LangGraph
-  - MCP (Model Context Protocol)
-  - A2A (Agent-to-Agent)
-- RAG Systems:
-  - Vector databases: Weaviate, Qdrant, 
-  - Advanced RAG techniques
+### Skills
 
-OK, mình viết lại **ngắn gọn – dạng bullet points – đúng kiểu GitHub/CV**, không icon, tập trung đúng các mảng bạn yêu cầu.
-
----
-
-## Skills
-
-### Large Language Models & Agent Systems
-
-* LLM frameworks: Hugging Face, PyTorch, TensorFlow
-* Agent systems: LangChain, LangGraph
-* Agent protocols: MCP, A2A (Agent-to-Agent)
-* Retrieval-Augmented Generation (RAG): FAISS, Weaviate
-* Prompt engineering: instruction tuning, ReAct, tool/function calling
-
----
-
-### LLM Training & Optimization
-
-* Fine-tuning: full fine-tuning, LoRA / PEFT
-* Model optimization: distillation, pruning, quantization
-* Alignment & learning: RLHF, preference-based learning
-* Model evaluation and benchmarking
-
----
-
-### MLOps & Deployment
-
-* Experiment tracking & data versioning: MLflow, DVC, W&B
-* CI/CD: GitHub Actions, GitLab CI/CD, Jenkins, ArgoCD
-* Containerization: Docker, image optimization, versioning
-* Orchestration: Kubernetes (training jobs, inference services)
-* Monitoring: Grafana, Prometheus
-
----
-
-### Cloud & Infrastructure
-
-* AWS: S3, EC2, EKS
-* GCP: GCS, GKE
-* Cloud-native ML pipelines and scalable model serving
-
----
-
-### Machine Learning & Data
-
+#### AI & ML & DL
 * Machine learning: scikit-learn
 * Data science: pandas, NumPy
 * Deep learning: PyTorch, TensorFlow, Keras
 * Backend for ML systems: FastAPI
 
----
+#### LLM & Agent
+* LLM: Hugging Face, PyTorch, TensorFlow
+* Agent: Langchain, Langgraph, Llama-index, MCP, A2A (Agent-to-Agent)
+* Vector DB: Weaviate, Qdrant
 
-### Data Engineering
+#### LLM Training & Optimization
+* Fine-tuning: Full fine-tuning, LoRA / PEFT
+* Optimization: Distillation, Pruning, Quantization
+* Alignment: RLHF, AIHF, DPO, PPO
 
+#### MLOps
+
+* Experiment tracking & data versioning: MLflow, DVC, W&B
+* CI/CD: GitHub Actions, GitLab CI/CD, Jenkins, ArgoCD
+* Containerization: Docker
+* Orchestration: Kubernetes
+* Monitoring: Grafana, Prometheus
+
+#### Cloud
+* AWS: S3, EC2, EKS, Sagemaker
+* GCP: GCS, GKE
+
+#### Data Engineering
 * Apache Spark, Hadoop
 * Airflow
 * Apache Kafka, Apache Flink
 
----
-
-### Learning & Career Direction
-
-* Speech processing: ASR, TTS, speech-to-text systems
-* Career path: AI Engineer
-* Foundations: Data Structures & Algorithms, System Design, Distributed Systems
-
----
-
-Nếu bạn muốn mình:
-
-* Rút gọn nữa cho **1 màn hình GitHub**
-* Tách thành **Core / Advanced / Familiar**
-* Viết bản **CV-friendly (ATS-friendly)**
-
-👉 nói mình biết mục đích dùng (GitHub / CV / LinkedIn) là mình chỉnh tiếp.
+#### Learning & Career Direction
+* Speech processing: ASR, TTS, Speech-To-Text
+* System: Data Structures & Algorithms, System Design, Distributed Systems
 
 
 <!--
