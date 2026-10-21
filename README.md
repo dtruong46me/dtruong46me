@@ -1,3 +1,4 @@
+```
 >>> from hust.alumni import DinhTruong
 >>> me = DinhTruong()
 
@@ -46,3 +47,4 @@ v0.x          Broke a lot of notebooks.
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 PermissionError: private. nice try.
+```
