@@ -1,86 +1,194 @@
+<a name="main-py"></a>
+**`main.py`**
+
+<pre>
+<i>"""
+Hi, you found my GitHub profile.
+
+Click any function name to jump to its definition.
+Open "Run" below to see what it prints.
+"""</i>
+
+<b>from</b> <a href="#humans-py">humans</a> <b>import</b> <a name="import-dinhtruongphan" href="#class-dinhtruongphan">DinhTruongPhan</a> <b>as</b> <a name="import-dinhtruong" href="#class-dinhtruongphan">DinhTruong</a>
+
+
+<b>def</b> <b><a name="def-main">main</a></b>():
+    me = <a href="#class-dinhtruongphan">DinhTruong</a>()
+
+    intro    = me.<a name="call-overview" href="#def-overview">overview</a>()
+    today    = me.<a name="call-currently" href="#def-currently">currently</a>()
+    history  = me.<a name="call-changelog" href="#def-changelog">changelog</a>()
+    tools    = me.<a name="call-tech_stack" href="#def-tech_stack">tech_stack</a>()
+    work     = me.<a name="call-projects" href="#def-projects">projects</a>()
+    offline  = me.<a name="call-hobbies" href="#def-hobbies">hobbies</a>()
+    writing  = me.<a name="call-blog" href="#def-blog">blog</a>()
+    links    = me.<a name="call-contact" href="#def-contact">contact</a>()
+
+    me.<a name="call-diary" href="#def-diary">diary</a>()  <i># go ahead, try it</i>
+
+
+<b>if</b> __name__ == "__main__":
+    <a href="#def-main">main</a>()
+</pre>
+
+<details>
+<summary><b>Run</b>&nbsp;&nbsp;<code>$ python main.py</code></summary>
+
+```console
+$ python main.py
+Dinh Truong Phan
+AI Engineer at [Company].
+I build LLM systems, and the unglamorous
+infrastructure that keeps them alive in production.
+
+currently
+---------
+  working on  [agents / RAG / inference serving]
+  exploring   speech (ASR, TTS)
+
+changelog
+---------
+  v0.1  [2021]  Started Data Science & AI at HUST
+  v0.5  [2024]  Intern at [ABC], [what you did]
+  v1.0  [2025]  Graduated
+  v1.1  [2025]  Joined [Company] as AI Engineer
+  v2.0  [20xx]  [Moved to Japan / new job / ...]
+
+tech stack
+----------
+  Python, PyTorch, Hugging Face, LangGraph, Docker, Kubernetes, AWS
+
+projects
+--------
+  [project-name]    one line on what it does
+  [project-name]    ...
+  more, including the ones that went nowhere: me.blog()
+
+hobbies
+-------
+  [piano / guitar], Japanese, English, [...]
+
+blog
+----
+  Coder thích chơi đàn
+  a coder who likes to play music:
+  projects, experiments, half-serious ideas,
+  notes from learning English and Japanese
+
+contact
+-------
+  github  github.com/dtruong46me
+  blog    [blog-url]
+  email   [email]
+Traceback (most recent call last):
+  File "main.py", line 27, in <module>
+    main()
+  File "main.py", line 23, in main
+    me.diary()  # go ahead, try it
+  File "humans.py", line 93, in diary
+    raise PermissionError("private. nice try.")
+PermissionError: private. nice try.
 ```
- ____                __          ______                                           ____    __                           
-/\  _`\   __        /\ \        /\__  _\                                         /\  _`\ /\ \                         
-\ \ \/\ \/\_\    ___\ \ \___    \/_/\ \/ _ __   __  __    ___     ___      __     \ \ \L\ \ \ \___      __      ___    
- \ \ \ \ \/\ \ /' _ `\ \  _ `\     \ \ \/\`'__\/\ \/\ \  / __`\ /' _ `\  /'_ `\    \ \ ,__/\ \  _ `\  /'__`\  /' _ `\  
-  \ \ \_\ \ \ \/\ \/\ \ \ \ \ \     \ \ \ \ \/ \ \ \_\ \/\ \L\ \/\ \/\ \/\ \L\ \    \ \ \/  \ \ \ \ \/\ \L\.\_/\ \/\ \ 
-   \ \____/\ \_\ \_\ \_\ \_\ \_\     \ \_\ \_\  \ \____/\ \____/\ \_\ \_\ \____ \    \ \_\   \ \_\ \_\ \__/.\_\ \_\ \_\
-    \/___/  \/_/\/_/\/_/\/_/\/_/      \/_/\/_/   \/___/  \/___/  \/_/\/_/\/___L\ \    \/_/    \/_/\/_/\/__/\/_/\/_/\/_/
-                                                                           /\____/
-                                                                           \_/__/ 
-```
-## Hi, I'm Dinh Truong 👋
 
-I’m a DSAI student at Hanoi University of Science and Technology (HUST) with a strong focus on AI Engineering, particularly Large Language Models (LLMs), Agentic Systems, and MLOps.
-I have hands-on experience building end-to-end AI systems, from model training and optimization to deployment at scale on cloud-native infrastructure.
+</details>
 
-My long-term goal is to become an AI Engineer who can design scalable, reliable, and production-ready AI systems, combining solid foundations in Machine Learning, Distributed Systems, and System Design.
+<a name="humans-py"></a>
+**`humans.py`**
 
-### Skills
+<pre>
+<i>"""
+humans.py
 
-#### AI & ML & DL
-* Machine learning: scikit-learn
-* Data science: pandas, NumPy
-* Deep learning: PyTorch, TensorFlow, Keras
-* Backend for ML systems: FastAPI
-
-#### LLM & Agent
-* LLM: Hugging Face, PyTorch, TensorFlow
-* Agent: Langchain, Langgraph, Llama-index, MCP, A2A (Agent-to-Agent)
-* Vector DB: Weaviate, Qdrant
-
-#### LLM Training & Optimization
-* Fine-tuning: Full fine-tuning, LoRA / PEFT
-* Optimization: Distillation, Pruning, Quantization
-* Alignment: RLHF, AIHF, DPO, PPO
-
-#### MLOps
-
-* Experiment tracking & data versioning: MLflow, DVC, W&B
-* CI/CD: GitHub Actions, GitLab CI/CD, Jenkins, ArgoCD
-* Containerization: Docker
-* Orchestration: Kubernetes
-* Monitoring: Grafana, Prometheus
-
-#### Cloud
-* AWS: S3, EC2, EKS, Sagemaker
-* GCP: GCS, GKE
-
-#### Data Engineering
-* Apache Spark, Hadoop
-* Airflow
-* Apache Kafka, Apache Flink
-
-#### Learning & Career Direction
-* Speech processing: ASR, TTS, Speech-To-Text
-* System: Data Structures & Algorithms, System Design, Distributed Systems
+One of them, anyway.
+"""</i>
 
 
-<!--
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=dtruong46me&show_icons=true&theme=radical&count_private=true&border_radius=10" alt="streak stats"/>
-</div> -->
-<div align=center>
-  <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=dtruong46me&theme=radical&hide_border=false&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
-</div>
+<b>def</b> <b><a name="def-section">section</a></b>(title):
+    print(f"\n{title}")
+    print("-" * len(title))
 
-<div align=center>
-  <img width=100% src="https://github.com/dtruong46me/dtruong46me/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
-___
-<!--
-**dtruong46me/dtruong46me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>class</b> <b><a name="class-dinhtruongphan" href="#import-dinhtruongphan">DinhTruongPhan</a></b>:
+    <i>"""AI Engineer. A coder who likes to play music."""</i>
 
-Here are some ideas to get you started:
+    name = "Dinh Truong Phan"
+    github = "github.com/dtruong46me"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <b>def</b> <b><a name="def-overview" href="#call-overview">overview</a></b>(<b>self</b>):
+        print(<b>self</b>.name)
+        print("AI Engineer at [Company].")
+        print("I build LLM systems, and the unglamorous")
+        print("infrastructure that keeps them alive in production.")
+        <b>return</b> <b>self</b>.name
 
+    <b>def</b> <b><a name="def-currently" href="#call-currently">currently</a></b>(<b>self</b>):
+        now = {
+            "working on": "[agents / RAG / inference serving]",
+            "exploring": "speech (ASR, TTS)",
+        }
+        <a href="#def-section">section</a>("currently")
+        <b>for</b> what, detail <b>in</b> now.items():
+            print(f"  {what:&lt;12}{detail}")
+        <b>return</b> now
+
+    <b>def</b> <b><a name="def-changelog" href="#call-changelog">changelog</a></b>(<b>self</b>):
+        history = [
+            ("v0.1", "[2021]", "Started Data Science &amp; AI at HUST"),
+            ("v0.5", "[2024]", "Intern at [ABC], [what you did]"),
+            ("v1.0", "[2025]", "Graduated"),
+            ("v1.1", "[2025]", "Joined [Company] as AI Engineer"),
+            ("v2.0", "[20xx]", "[Moved to Japan / new job / ...]"),
+        ]
+        <a href="#def-section">section</a>("changelog")
+        <b>for</b> version, year, event <b>in</b> history:
+            print(f"  {version:&lt;6}{year:&lt;8}{event}")
+        <b>return</b> history
+
+    <b>def</b> <b><a name="def-tech_stack" href="#call-tech_stack">tech_stack</a></b>(<b>self</b>):
+        stack = ["Python", "PyTorch", "Hugging Face", "LangGraph",
+                 "Docker", "Kubernetes", "AWS"]
+        <a href="#def-section">section</a>("tech stack")
+        print("  " + ", ".join(stack))
+        <b>return</b> stack
+
+    <b>def</b> <b><a name="def-projects" href="#call-projects">projects</a></b>(<b>self</b>):
+        work = [
+            ("[project-name]", "one line on what it does"),
+            ("[project-name]", "..."),
+        ]
+        <a href="#def-section">section</a>("projects")
+        <b>for</b> title, what <b>in</b> work:
+            print(f"  {title:&lt;18}{what}")
+        print("  more, including the ones that went nowhere: me.blog()")
+        <b>return</b> work
+
+    <b>def</b> <b><a name="def-hobbies" href="#call-hobbies">hobbies</a></b>(<b>self</b>):
+        things = ["[piano / guitar]", "Japanese", "English", "[...]"]
+        <a href="#def-section">section</a>("hobbies")
+        print("  " + ", ".join(things))
+        <b>return</b> things
+
+    <b>def</b> <b><a name="def-blog" href="#call-blog">blog</a></b>(<b>self</b>):
+        <a href="#def-section">section</a>("blog")
+        print("  Coder thích chơi đàn")
+        print("  a coder who likes to play music:")
+        print("  projects, experiments, half-serious ideas,")
+        print("  notes from learning English and Japanese")
+        <b>return</b> "[blog-url]"
+
+    <b>def</b> <b><a name="def-contact" href="#call-contact">contact</a></b>(<b>self</b>):
+        links = {
+            "github": <b>self</b>.github,
+            "blog": "[blog-url]",
+            "email": "[email]",
+        }
+        <a href="#def-section">section</a>("contact")
+        <b>for</b> where, address <b>in</b> links.items():
+            print(f"  {where:&lt;8}{address}")
+        <b>return</b> links
+
+    <b>def</b> <b><a name="def-diary" href="#call-diary">diary</a></b>(<b>self</b>):
+        <b>raise</b> PermissionError("private. nice try.")
+</pre>
+
+[blog](https://your-blog-url) · [email](mailto:you@example.com) · [LinkedIn](https://linkedin.com/in/your-handle)
